@@ -8,5 +8,5 @@ A program for matrix transformations using C# in visual studio
 * uniform scaling by 10%
 * translation in x-axis by 75 pixels
 * translation in y-axis by 35 pixels
-* rotation along x, y or z-axis by 10%
+* rotation along x, y or z-axis by 0.05 radians
 * continuous rotation using the Timer class
